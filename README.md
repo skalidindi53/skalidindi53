@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shankar Kalidindi</h1>
 <h3 align="center">In a world full of characters, I'm more interested in ASCII - just your typical CS student!</h3>
 
-<p align = "center">- 🔭 I’m currently working on **creating a stock prediction model**</p>
+<p align = "center">🔭 I’m currently working on **creating a stock prediction model**</p>
 
-- 🌱 I’m currently learning **data structures, algorithms and machine learning**
+<p align = "center">🌱 I’m currently learning **data structures, algorithms and machine learning**</p>
 
-- 👯 I’m looking to collaborate on [Wendor](https://github.com/skalidindi53/Wendor-SparksHackathon)
+<p align = "center">👯 I’m looking to collaborate on [Wendor](https://github.com/skalidindi53/Wendor-SparksHackathon)</p>
 
-- 📫 How to reach me **s.teja2004@gmail.com**
+<p align = "center">📫 How to reach me **s.teja2004@gmail.com**</p>
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OfxSG76-7bL3uOWEa66fCaHuZHWFxtZG/view?usp=sharing)
+<p align = "center">📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OfxSG76-7bL3uOWEa66fCaHuZHWFxtZG/view?usp=sharing)</p>
 
-- ⚡ Fun fact **I'm really good at yo-yo tricks**
+<p align = "center">⚡ Fun fact **I'm really good at yo-yo tricks**</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
