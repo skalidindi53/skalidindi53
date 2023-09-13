@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **s.teja2004@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://tinyurl.com/3mtb4ya4])
+- 📄 Know about my experiences [Resume](https://tinyurl.com/3mtb4ya4)
 
 - ⚡ Fun fact **I'm really good at yo-yo tricks**
 
