@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shankar Kalidindi</h1>
 <h3 align="center">In a world full of characters, I'm more interested in ASCII - just your typical CS student!</h3>
 
-- 🔭 I’m currently working on **creating a stock prediction model**
+- 🔭 I’m currently working on **creating a personal finanace management tool**
 
-- 🌱 I’m currently learning **data structures, algorithms and machine learning**
-
-- 👯 I’m looking to collaborate on [Wendor](https://github.com/skalidindi53/Wendor-SparksHackathon)
+- 🌱 I’m currently learning **React.js, Node.js, MongoDB and integrating Plaid API for my finance management tool**
 
 - 📫 How to reach me **s.teja2004@gmail.com**
 
