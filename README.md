@@ -81,9 +81,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=skalidindi53&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=skalidindi53&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/skalidindi53/skalidindi53/output/snake.svg" alt="Snake animation" />
-
-###
