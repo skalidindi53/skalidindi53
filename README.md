@@ -32,7 +32,6 @@
 
 <p align="left">I'm Shankar, a Math and CS major at UIUC, passionate about technology and problem-solving
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sap7fSDzulI_u0XK2n-WO4wMW2F5pBXL/view?usp=sharing)
 </p>
 
 ###
