@@ -32,10 +32,6 @@
 
 <p align="left">I'm Shankar, a Math and CS major at UIUC, passionate about technology and problem-solving
 
-  - 🔭 I’m currently working on **creating a personal finanace management tool**
-
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB and integrating Plaid API for my finance management tool**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sap7fSDzulI_u0XK2n-WO4wMW2F5pBXL/view?usp=sharing)
 </p>
 
